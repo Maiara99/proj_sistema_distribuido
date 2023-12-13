@@ -1,0 +1,154 @@
+--------------------------------------
+            HISTORICO DA
+     TELA DE CONTROLE DO TANQUE
+--------------------------------------
+Altura desejada: 8 metros
+--------------------------------------
+Dados do controle realizado:
+--------------------------------------
+Altura atual =9.0
+Vazao de entrada =117.3525
+--------------------------------------
+Altura atual =9.0
+Vazao de entrada =117.3525
+--------------------------------------
+Altura atual =9.0
+Vazao de entrada =117.3525
+--------------------------------------
+Altura atual =9.0
+Vazao de entrada =117.3525
+--------------------------------------
+Altura atual =8.3342
+Vazao de entrada =105.2021
+--------------------------------------
+Altura atual =8.3342
+Vazao de entrada =105.2021
+--------------------------------------
+Altura atual =8.3342
+Vazao de entrada =105.2021
+--------------------------------------
+Altura atual =8.3342
+Vazao de entrada =101.6682
+--------------------------------------
+Altura atual =8.1338
+Vazao de entrada =101.6682
+--------------------------------------
+Altura atual =8.1338
+Vazao de entrada =101.6682
+--------------------------------------
+Altura atual =8.1338
+Vazao de entrada =101.6682
+--------------------------------------
+Altura atual =8.0566
+Vazao de entrada =100.3226
+--------------------------------------
+Altura atual =8.0566
+Vazao de entrada =100.3226
+--------------------------------------
+Altura atual =8.0566
+Vazao de entrada =100.3226
+--------------------------------------
+Altura atual =8.0242
+Vazao de entrada =99.7603
+--------------------------------------
+Altura atual =8.0242
+Vazao de entrada =99.7603
+--------------------------------------
+Altura atual =8.0242
+Vazao de entrada =99.7603
+--------------------------------------
+Altura atual =8.0107
+Vazao de entrada =99.526
+--------------------------------------
+Altura atual =8.0107
+Vazao de entrada =99.526
+--------------------------------------
+Altura atual =8.0107
+Vazao de entrada =99.526
+--------------------------------------
+Altura atual =8.0107
+Vazao de entrada =99.526
+--------------------------------------
+Altura atual =8.0047
+Vazao de entrada =99.4208
+--------------------------------------
+Altura atual =8.0047
+Vazao de entrada =99.4208
+--------------------------------------
+Altura atual =8.0047
+Vazao de entrada =99.4208
+--------------------------------------
+Altura atual =8.0019
+Vazao de entrada =99.3731
+--------------------------------------
+Altura atual =8.0019
+Vazao de entrada =99.3731
+--------------------------------------
+Altura atual =8.0019
+Vazao de entrada =99.3731
+--------------------------------------
+Altura atual =8.0019
+Vazao de entrada =99.3731
+--------------------------------------
+Altura atual =8.0008
+Vazao de entrada =99.3546
+--------------------------------------
+Altura atual =8.0008
+Vazao de entrada =99.3546
+--------------------------------------
+Altura atual =8.0008
+Vazao de entrada =99.3546
+--------------------------------------
+Altura atual =8.0008
+Vazao de entrada =99.3546
+--------------------------------------
+Altura atual =8.0003
+Vazao de entrada =99.3456
+--------------------------------------
+Altura atual =8.0003
+Vazao de entrada =99.3456
+--------------------------------------
+Altura atual =8.0003
+Vazao de entrada =99.3456
+--------------------------------------
+Altura atual =8.0002
+Vazao de entrada =99.3429
+--------------------------------------
+Altura atual =8.0002
+Vazao de entrada =99.3429
+--------------------------------------
+Altura atual =8.0002
+Vazao de entrada =99.3429
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
+--------------------------------------
+Altura atual =8.0
+Vazao de entrada =99.3408
